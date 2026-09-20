@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:10b981&height=220&section=header&text=Abhimoy%20Mukherjee&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20%26%20DevOps%20Engineer&descAlignY=58&descSize=20&descColor=d1fae5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:065f46,100:10b981&height=150&section=header&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=34&duration=3000&pause=1200&color=10B981&center=true&vCenter=true&width=800&lines=Abhimoy+Mukherjee;Backend+%26+DevOps+Engineer" alt="Typing SVG" />
 
 Information Science and Engineering student at Dayananda Sagar College of Engineering, Bengaluru, working toward software engineering and DevOps/cloud engineering roles. I focus on backend systems and infrastructure — the layer where "it works on my machine" becomes "it's deployed, monitored, and holds up in production."
 
