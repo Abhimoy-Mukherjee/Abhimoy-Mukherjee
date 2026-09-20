@@ -34,7 +34,7 @@ An AI-powered financial reconciliation agent built for the Razorpay Buildathon, 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,go,fastapi,docker,aws,postgres,github,githubactions,git" />
+<img src="https://skillicons.dev/icons?i=python,java,c,html,css,bash,fastapi,docker,aws,postgres,mysql,github,githubactions,git" />
 
 </div>
 
