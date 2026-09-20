@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:10b981,100:0ea5e9&height=200&section=header&text=Abhimoy%20Mukherjee&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:10b981&height=180&section=header&animation=twinkling" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=38&duration=3000&pause=1200&color=10B981&center=true&vCenter=true&width=600&lines=Abhimoy+Mukherjee;Backend+%26+DevOps+Engineer;Building+systems+that+hold+up" alt="Typing SVG" />
 
 Information Science and Engineering student at Dayananda Sagar College of Engineering, Bengaluru, working toward software engineering and DevOps/cloud engineering roles. I focus on backend systems and infrastructure — the layer where "it works on my machine" becomes "it's deployed, monitored, and holds up in production."
 
@@ -45,6 +47,8 @@ An AI-powered financial reconciliation agent built for the Razorpay Buildathon, 
 <img src="https://github-readme-stats.vercel.app/api?username=Abhimoy-Mukherjee&show_icons=true&theme=dark&hide_border=true" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimoy-Mukherjee&layout=compact&theme=dark&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com/?user=Abhimoy-Mukherjee&theme=dark&hide_border=true" />
 
 </div>
 
