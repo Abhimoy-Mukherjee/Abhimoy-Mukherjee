@@ -55,5 +55,5 @@ Deepening my DevOps and cloud fundamentals — CI/CD pipelines, container orches
 ### Get in touch
 
 - GitHub: [github.com/Abhimoy-Mukherjee](https://github.com/Abhimoy-Mukherjee)
-- LinkedIn: _add your link here_
-- Email: _add your email here_
+- LinkedIn: https://www.linkedin.com/in/abhimoy-mukherjee/
+- Email: abhimoymukherjee@gmail.com
